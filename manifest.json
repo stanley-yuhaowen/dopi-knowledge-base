@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "name": "DOPI 眼镜 OPC 知识库",
+  "language": "zh-CN",
+  "visibility": "private",
+  "entrypoint": "README.md",
+  "ai_instructions": "AGENTS.md",
+  "canonical_home": "knowledge/9-首页.md",
+  "source_context": "2026-09-17 知识库采访材料",
+  "files": [
+    {
+      "id": 0,
+      "path": "knowledge/0-信息输入.md",
+      "title": "0-信息输入",
+      "description": "待分类素材收集箱",
+      "format": "markdown"
+    },
+    {
+      "id": 1,
+      "path": "knowledge/1-人设DNA.md",
+      "title": "1-人设DNA",
+      "description": "个人背景、品牌人格、表达风格",
+      "format": "markdown"
+    },
+    {
+      "id": 2,
+      "path": "knowledge/2-我的产品.md",
+      "title": "2-我的产品",
+      "description": "产品、价格与供应链策略",
+      "format": "markdown"
+    },
+    {
+      "id": 3,
+      "path": "knowledge/3-用户需求.md",
+      "title": "3-用户需求",
+      "description": "客户画像、痛点与购买障碍",
+      "format": "markdown"
+    },
+    {
+      "id": 4,
+      "path": "knowledge/4-素材案例.md",
+      "title": "4-素材案例",
+      "description": "客户故事、评价与售后案例",
+      "format": "markdown"
+    },
+    {
+      "id": 5,
+      "path": "knowledge/5-产品主张.md",
+      "title": "5-产品主张",
+      "description": "品牌主张与内容表达原则",
+      "format": "markdown"
+    },
+    {
+      "id": 6,
+      "path": "knowledge/6-内容生产.md",
+      "title": "6-内容生产",
+      "description": "短视频、小红书内容方向",
+      "format": "markdown"
+    },
+    {
+      "id": 7,
+      "path": "knowledge/7-标签体系.md",
+      "title": "7-标签体系",
+      "description": "来源与应用双标签规则",
+      "format": "markdown"
+    },
+    {
+      "id": 8,
+      "path": "knowledge/8-方法论-业务流程SOP.md",
+      "title": "8-方法论-业务流程SOP",
+      "description": "获客、咨询、成交、交付与售后 SOP",
+      "format": "markdown"
+    },
+    {
+      "id": 9,
+      "path": "knowledge/9-首页.md",
+      "title": "9-首页",
+      "description": "原知识库的十区导航与说明",
+      "format": "markdown"
+    }
+  ]
+}
