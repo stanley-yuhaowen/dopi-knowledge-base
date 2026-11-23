@@ -1,0 +1,17 @@
+# Operating-system and editor transient files
+.DS_Store
+Thumbs.db
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Credentials and private data
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+private/
+secrets/
+customer-records/
